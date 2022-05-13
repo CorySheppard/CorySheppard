@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CorySheppard
 - 👀 I’m interested in web development, gaming, and films/shows
-- 🌱 I’m currently working with the TALL stack (TailwindCSS, Alpine.js, Laravel, and Livewire) and learning Next.js
+- 🌱 I’m currently working with the TALL stack (TailwindCSS, Alpine.js, Laravel, and Livewire)
 - 📫 How to reach me: coryjaysheppard@gmail.com
 
 <!---
